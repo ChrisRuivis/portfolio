@@ -17,6 +17,11 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `HTML`: Foi realiazo a estrutura da página.
 - `CSS`: Foi feito a estilização da página, com preferência ao uso de cores roxas.
 
+  <div>
+  <img src="https://img.shields.io/badge/HTML-239120?style-for-the-badge&logo-html5&logoColor-white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style-for-the-badge&logo-css3&logoColor-white">
+  </div>
+
 ## 📁 Acesso ao projeto
 
 Você pode [baixar o arquivo zip](https://github.com/Christian-Rui/portfolio/archive/refs/heads/main.zip).
