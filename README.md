@@ -1,4 +1,4 @@
-![Descricao da sua imagem](https://raw.githubusercontent.com/andreocunha/upload_files_test/main/exemplo-thumb.png)
+![Descricao da sua imagem](https://repository-images.githubusercontent.com/762892833/2ca7f266-634e-49b2-97f2-ddce756a2516)
 
 # Criação de Portfolio
 
